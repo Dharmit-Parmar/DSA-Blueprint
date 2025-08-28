@@ -3,31 +3,42 @@
 #include <algorithm>
 using namespace std;
 
-void findSum(int arr[], int size, int n) {
+void findSum(int arr[], int size, int n)
+{
     sort(arr, arr + size);
 
-    for (int i = 0; i < size - 2; i++) {
-        int j = i +1;
-        int k = size - 1; 
+    for (int i = 0; i < size - 2; i++)
+    {
+        int j = i + 1;
+        int k = size - 1;
 
-        while (j < k) {
+        while (j < k)
+        {
             int currentSum = arr[i] + arr[j] + arr[k];
 
-            if (currentSum == n) {
+            if (currentSum == n)
+            {
                 cout << "the pair is: " << arr[i] << " " << arr[j] << " " << arr[k] << endl;
+                while (j < k && arr[j] == arr[j + 1])j++;
+                while (j < k && arr[k] == arr[k - 1])k--;
                 j++;
                 k--;
-            } else if (currentSum < n) {
+            }
+            else if (currentSum < n)
+            {
                 j++;
-            } else {
+            }
+            else
+            {
                 k--;
             }
         }
     }
 }
 
-int main() {
-    int arr[11] = {12, 3, 4, 1, 6, 9, 15, 7, 8, 2,0};
+int main()
+{
+    int arr[11] = {12, 3, 4, 1, 6, 9, 15, 7, 8, 2, 0};
     int size = sizeof(arr) / sizeof(arr[0]);
     findSum(arr, size, 12);
 
