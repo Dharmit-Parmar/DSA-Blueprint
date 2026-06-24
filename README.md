@@ -7,4 +7,16 @@
 |  |
 | ------- |
 | [3099-harshad-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3099-harshad-number) |
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
