@@ -1,42 +1,33 @@
+
+
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        // first where the code can fail
-        int m = matrix.size();
-        if (m == 0)
-            return false;
+    bool searchMatrix(std::vector<std::vector<int>>& matrix, int target) {
 
-        int n = matrix[0].size(); // for the m x n
-
-        // now we compare the target with the end of each col if lesser then we
-        // search in that
-        int found_col = -1;
-        for (int i = 0; i < m; i++) {
-            if (matrix[i][n - 1] >= target) {
-                found_col = i;
-                break ;
-            }
-        }
-
-        if (found_col == -1)
-            return false;
-        // if it is in that col
-
-        // Binary Search in the row
+        if (matrix.empty() || matrix[0].empty()) return false;
+        
+        int m = matrix.size();       
+        int n = matrix[0].size();    
+        
         int low = 0;
-        int high = n - 1;
-
+        int high = (m * n) - 1;
+        
         while (low <= high) {
             int mid = low + (high - low) / 2;
-
-            if (matrix[found_col][mid] == target)
-                return true;
-            else if (matrix[found_col][mid] < target)
-                low = mid + 1;
-            else
-                high = mid - 1;
+            
+            // Map 1D index back to 2D coordinates
+            int row = mid / n;
+            int col = mid % n;
+            
+            if (matrix[row][col] == target) {
+                return true; // Target found
+            } else if (matrix[row][col] < target) {
+                low = mid + 1; // Search right half
+            } else {
+                high = mid - 1; // Search left half
+            }
         }
-
-        return false;
+        
+        return false; // Target not found
     }
 };
