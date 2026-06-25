@@ -13,6 +13,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
@@ -58,6 +60,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
