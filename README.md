@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
