@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
