@@ -1,21 +1,18 @@
 class Solution {
 public:
-    int maximumWealth(vector<vector<int>>& accounts) {
-        int m = accounts.size();
-        int n =accounts[0].size() ;
-        int richest_customer = 0 ;
-        int sum = 0 ;
-        for(auto i{0} ; i<m ;i++ )
-        {
-            sum = 0 ;
-            for(auto j{0} ; j< n ; j++)
-            {
-                sum+= accounts[i][j];
-            }
+    int maximumWealth(std::vector<std::vector<int>>& accounts) {
+        int max_wealth{0};
 
-            richest_customer = max(richest_customer , sum);
+        // Iterate through each customer's account row
+        for (const auto& customer : accounts) {
+            
+            // Calculate sum of current row using accumulate (the minimal way to sum)
+            int current_sum = accumulate(customer.begin(), customer.end(), 0);
+            
+            // Update the maximum found so far
+            max_wealth = max(max_wealth, current_sum);
         }
 
-        return richest_customer ;
+        return max_wealth;
     }
 };
