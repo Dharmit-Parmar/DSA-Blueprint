@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
