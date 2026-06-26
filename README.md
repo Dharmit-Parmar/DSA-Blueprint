@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
+| [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
@@ -81,4 +82,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0584-find-customer-referee) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
