@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0061-rotate-list) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 ## Greedy
