@@ -77,5 +77,6 @@
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
