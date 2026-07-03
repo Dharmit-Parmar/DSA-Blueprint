@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -53,12 +54,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0061-rotate-list) |
