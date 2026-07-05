@@ -51,6 +51,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2129-capitalize-the-title) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
