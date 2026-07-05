@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
