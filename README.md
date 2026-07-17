@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@
 | [0015-3sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,12 +84,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
