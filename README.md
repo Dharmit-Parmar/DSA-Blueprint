@@ -70,6 +70,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2129-capitalize-the-title](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2129-capitalize-the-title) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3330-find-the-original-typed-string-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3330-find-the-original-typed-string-i) |
 ## Sorting
 |  |
 | ------- |
