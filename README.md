@@ -8,6 +8,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3099-harshad-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3099-harshad-number) |
 ## Array
@@ -44,6 +45,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
