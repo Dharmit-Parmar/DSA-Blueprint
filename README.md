@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 ## Database
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
