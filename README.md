@@ -40,6 +40,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
+| [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+| [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -73,6 +75,7 @@
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2129-capitalize-the-title](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2129-capitalize-the-title) |
+| [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3330-find-the-original-typed-string-i) |
 ## Sorting
@@ -83,6 +86,7 @@
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
