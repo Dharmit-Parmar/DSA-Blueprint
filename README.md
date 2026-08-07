@@ -30,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
@@ -164,6 +166,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
@@ -172,6 +175,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
@@ -189,6 +193,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
