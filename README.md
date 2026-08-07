@@ -165,12 +165,14 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
@@ -187,10 +189,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
