@@ -133,6 +133,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
@@ -187,6 +189,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
@@ -225,6 +228,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
@@ -232,6 +236,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 ## Stack
 |  |
