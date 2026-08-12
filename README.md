@@ -60,6 +60,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
 |  |
 | ------- |
@@ -265,4 +266,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
