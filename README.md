@@ -187,6 +187,7 @@
 | [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -204,6 +205,7 @@
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -239,6 +241,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
