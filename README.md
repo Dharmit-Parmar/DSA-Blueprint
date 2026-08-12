@@ -203,6 +203,7 @@
 | [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -237,6 +238,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
+| [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
+| [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 ## Stack
 |  |
 | ------- |
