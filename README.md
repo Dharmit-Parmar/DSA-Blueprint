@@ -85,6 +85,7 @@
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1768-merge-strings-alternately) |
 | [2129-capitalize-the-title](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -113,6 +114,7 @@
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
