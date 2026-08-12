@@ -44,6 +44,7 @@
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0905-sort-array-by-parity) |
+| [1207-unique-number-of-occurrences](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1207-unique-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
