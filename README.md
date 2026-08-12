@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0367-valid-perfect-square) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3099-harshad-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3099-harshad-number) |
 ## Array
@@ -85,6 +86,7 @@
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1768-merge-strings-alternately) |
 | [2129-capitalize-the-title](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2129-capitalize-the-title) |
@@ -248,4 +250,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
