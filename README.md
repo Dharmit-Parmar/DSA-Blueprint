@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3099-harshad-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3099-harshad-number) |
@@ -40,6 +41,7 @@
 | [0377-combination-sum-iv](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
@@ -156,6 +158,7 @@
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 ## Database
 |  |
 | ------- |
@@ -279,4 +282,20 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
