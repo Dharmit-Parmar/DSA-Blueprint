@@ -1,23 +1,25 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        multiset<int> st;
+        sort(nums.begin(), nums.end());
+
+        int left{0};
+        int right = nums.size() - 1;
         int count{0};
 
-        for (int num : nums) {
-            int target = k - num;
+        while (left < right) {
+            int sum = nums[left] + nums[right];
 
-            auto it = st.find(target);
-            if (it != st.end()) {
-
-                st.erase(it);
+            if (sum == k) {
                 count++;
+                left++;
+                right--;
+            } else if (sum < k) {
+                left++;
             } else {
-
-                st.insert(num);
+                right--;
             }
         }
-
         return count;
     }
 };
