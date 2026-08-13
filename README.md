@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -117,6 +118,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0905-sort-array-by-parity) |
@@ -149,6 +151,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
