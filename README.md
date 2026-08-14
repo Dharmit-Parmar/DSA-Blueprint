@@ -201,6 +201,7 @@
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -220,6 +221,7 @@
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -257,6 +259,7 @@
 | [0437-path-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [0437-path-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
