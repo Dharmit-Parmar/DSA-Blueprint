@@ -42,6 +42,7 @@
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
@@ -75,6 +76,7 @@
 | [0130-surrounded-regions](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0994-rotting-oranges) |
@@ -164,6 +166,7 @@
 | [0377-combination-sum-iv](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
 ## Database
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0841-keys-and-rooms) |
