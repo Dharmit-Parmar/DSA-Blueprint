@@ -160,6 +160,7 @@
 | [0061-rotate-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0328-odd-even-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
