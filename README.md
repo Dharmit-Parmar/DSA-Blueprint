@@ -57,6 +57,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 ## Binary Search
@@ -200,6 +201,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
