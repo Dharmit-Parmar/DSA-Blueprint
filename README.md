@@ -57,6 +57,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@
 | [0994-rotting-oranges](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1672-richest-customer-wealth) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0994-rotting-oranges](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
