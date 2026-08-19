@@ -44,6 +44,7 @@
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0905-sort-array-by-parity) |
@@ -199,6 +200,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1732-find-the-highest-altitude) |
