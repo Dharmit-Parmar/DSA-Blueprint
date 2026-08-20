@@ -11,6 +11,7 @@
 | [0367-valid-perfect-square](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3099-harshad-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3099-harshad-number) |
 ## Array
@@ -182,6 +183,7 @@
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
+| [1137-n-th-tribonacci-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1137-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -340,4 +342,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
