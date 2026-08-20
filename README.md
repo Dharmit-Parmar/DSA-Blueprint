@@ -107,6 +107,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Euclidean Algorithm
 |  |
@@ -324,6 +326,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
