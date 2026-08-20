@@ -27,6 +27,7 @@
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0130-surrounded-regions) |
@@ -78,6 +79,7 @@
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0463-island-perimeter) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0008-string-to-integer-atoi) |
+| [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
@@ -232,6 +235,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
@@ -258,6 +262,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
 ## Union-Find
