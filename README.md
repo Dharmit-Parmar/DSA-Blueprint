@@ -64,6 +64,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
+| [4024-nearest-available-drone](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -348,4 +349,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1137-n-th-tribonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
