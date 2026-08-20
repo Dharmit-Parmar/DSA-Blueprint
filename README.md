@@ -38,6 +38,7 @@
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0377-combination-sum-iv) |
@@ -206,6 +207,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1480-running-sum-of-1d-array) |
