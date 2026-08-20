@@ -64,6 +64,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
+| [4020-elevator-requests-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
@@ -166,6 +167,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
+| [4020-elevator-requests-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
 | ------- |
