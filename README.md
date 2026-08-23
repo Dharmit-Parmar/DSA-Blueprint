@@ -299,6 +299,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -312,6 +313,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -358,4 +360,8 @@
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4024-nearest-available-drone) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
