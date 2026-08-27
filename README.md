@@ -36,6 +36,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0238-product-of-array-except-self) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
@@ -267,6 +269,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -364,4 +367,12 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0450-delete-node-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
