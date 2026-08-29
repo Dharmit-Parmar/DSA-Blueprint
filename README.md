@@ -50,6 +50,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0994-rotting-oranges) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0832-flipping-an-image) |
 | [4020-elevator-requests-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/4020-elevator-requests-i) |
 ## Linked List
@@ -325,6 +327,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Euclidean Algorithm
 |  |
