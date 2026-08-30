@@ -26,6 +26,7 @@
 | [0039-combination-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
