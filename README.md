@@ -107,6 +107,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [2418-sort-the-people](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3330-find-the-original-typed-string-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -384,4 +386,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0051-n-queens) |
+## Counting
+|  |
+| ------- |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 <!---LeetCode Topics End-->
