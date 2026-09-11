@@ -273,6 +273,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0872-leaf-similar-trees](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
