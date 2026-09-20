@@ -399,4 +399,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
