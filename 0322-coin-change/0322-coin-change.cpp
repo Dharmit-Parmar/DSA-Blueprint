@@ -1,37 +1,36 @@
 class Solution {
 public:
-    /**
-     * @brief Finds the fewest number of coins needed to make up that amount.
-     *
-     * METHODOLOGY: Bottom-Up Dynamic Programming
-     * We create a dp table where dp[i] represents the minimum coins needed for
-     * amount i. For each amount from 1 to 'amount', we check every coin to see
-     * if it can form a sub-problem solution.
-     *
-     * COMPLEXITY:
-     * - Time Complexity: O(amount * n), where n is the number of coins.
-     * - Space Complexity: O(amount) for the dp vector.
-     */
     int coinChange(vector<int>& coins, int amount) {
-        // Initialize dp array with a value representing infinity (amount + 1 is
-        // safe) Size is amount + 1 to account for index 0 up to 'amount'
-        vector<int> dp(amount + 1, amount + 1);
+        // now doing with the dp
+        int n = coins.size();
+        const int inf = 1e9;
+        vector<vector<int>> dp(n + 1, vector<int>(amount + 1, inf));
 
-        // Base case: 0 coins are needed to make an amount of 0
-        dp[0] = 0;
-
-        // Iterate through every amount from 1 to target amount
-        for (int i = 1; i <= amount; ++i) {
-            for (int coin : coins) {
-                // If the coin can be used for the current amount
-                if (i - coin >= 0) {
-                    dp[i] = min(dp[i], 1 + dp[i - coin]);
-                }
-            }
+        for (int i = 0; i <= n; ++i) {
+            dp[i][0] = 0;
         }
 
-        // If dp[amount] is still amount + 1, it means the amount cannot be
-        // formed
-        return dp[amount] > amount ? -1 : dp[amount];
+        // take the coin first
+        for (int i = 1; i <= n; i++) {
+            int c = coins[i - 1];
+
+            // now we loop through the target
+            for (int j = 1; j <= amount; j++) {
+                // we exclude
+                int e = dp[i - 1][j];
+
+                // then we include
+
+                int in = inf;
+                if (j >= c) {
+                    if (dp[i][j - c] != inf) {
+                        in = 1 + dp[i][j - c];
+                    }
+                }
+
+                dp[i][j] = min(e, in);
+            }
+        }
+        return (dp[n][amount] == inf) ? -1 : dp[n][amount];
     }
 };
