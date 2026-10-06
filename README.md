@@ -119,6 +119,7 @@
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -166,6 +167,7 @@
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Euclidean Algorithm
 |  |
@@ -407,4 +410,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
