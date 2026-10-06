@@ -36,6 +36,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
