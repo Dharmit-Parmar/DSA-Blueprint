@@ -116,6 +116,7 @@
 | [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
@@ -246,6 +247,7 @@
 | [0130-surrounded-regions](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
@@ -293,6 +295,7 @@
 | [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0301-remove-invalid-parentheses) |
 ## Union-Find
 |  |
 | ------- |
