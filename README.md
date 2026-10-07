@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0242-valid-anagram) |
@@ -194,6 +195,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0198-house-robber) |
@@ -289,6 +291,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0051-n-queens) |
@@ -420,6 +423,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
