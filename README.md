@@ -121,6 +121,7 @@
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -171,6 +172,7 @@
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
@@ -204,6 +206,7 @@
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -347,6 +350,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -424,6 +428,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
