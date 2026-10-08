@@ -125,6 +125,7 @@
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -354,6 +355,7 @@
 | [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Euclidean Algorithm
 |  |
@@ -431,4 +433,5 @@
 | [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
