@@ -120,6 +120,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0709-to-lower-case) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
@@ -434,4 +437,8 @@
 | [0856-score-of-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Dharmit-Parmar/DSA-Blueprint/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
